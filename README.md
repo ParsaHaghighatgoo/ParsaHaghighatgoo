@@ -97,5 +97,5 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ParsaHaghighatgoo&label=Profile%20views&color=0e75b6&style=flat" alt="ParsaHaghighatgoo" />
+  <img src="https://komarev.com/ghpvc/?username=parsaHaghighatgoo&label=Profile%20views&color=0e75b6&style=flat" alt="parsaHaghighatgoo" />
 </p>
