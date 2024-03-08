@@ -27,6 +27,9 @@
 </a>
 
 </div>
+<div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParsaHaghighatgoo&show_icons=true&locale=en&theme=dark" alt="ParsaHaghighatgoo" /></p>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -94,5 +97,5 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parsahaghighatgoo&label=Profile%20views&color=0e75b6&style=flat" alt="parsahaghighatgoo" />
+  <img src="https://komarev.com/ghpvc/?username=ParsaHaghighatgoo&label=Profile%20views&color=0e75b6&style=flat" alt="ParsaHaghighatgoo" />
 </p>
