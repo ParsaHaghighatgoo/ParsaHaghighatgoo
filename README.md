@@ -12,6 +12,21 @@
 </a>
 
 </div>
+
+<!-- Dark Mode -->
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&line_height=28&count_private=true&show_icons=true&card_width=450&theme=transparent" alt="Parsa's Github stats" />
+
+
+  </a>
+ 
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&langs_count=8&hide_border=2&COLLABORATOR&theme=transparent&bg_color=00000000#gh-dark-mode-only" alt="Parsa's Language stats" />
+</a>
+
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -78,17 +93,3 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-<!-- Dark Mode -->
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&line_height=28&count_private=true&show_icons=true&card_width=450&theme=transparent" alt="Parsa's Github stats" />
-
-
-  </a>
- 
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&langs_count=8&hide_border=2&COLLABORATOR&theme=transparent&bg_color=00000000#gh-dark-mode-only" alt="Parsa's Language stats" />
-</a>
-
-</div>
