@@ -27,7 +27,7 @@
 </a>
 
 </div>
-<div>
+<div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParsaHaghighatgoo&show_icons=true&locale=en&theme=dark" alt="ParsaHaghighatgoo" /></p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
