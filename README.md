@@ -7,14 +7,20 @@ I build scalable backends, data-driven systems, and intelligent applications.
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" height="165" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" height="165" />
+  </a>
+</p>
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="165" />
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ParsaHaghighatgoo&theme=transparent&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ParsaHaghighatgoo&hide_border=true&cache_seconds=86400" />
+  </a>
+</p>
 
 ---
 
