@@ -1,7 +1,15 @@
-## 👋 Hi, I'm Parsa Haghighatgoo
+<div align="center">
 
-**Software Engineer | Backend & AI Developer | Python & Java Enthusiast**
-I build scalable backends, data-driven systems, and intelligent applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Parsa+Haghighatgoo+%F0%9F%91%8B;Backend+%26+AI+Developer;Learning+Machine+Learning+%7C+Deep+Learning+%7C+AI+in+Healthcare" alt="Typing SVG" />
+
+</div>
+## 👋 Hiii :D
+
+:D About Me
+
+🧠 I’m currently learning Machine Learning, Deep Learning, and AI in Healthcare
+
+🤝 I’m looking to collaborate on Machine Learning projects
 
 ---
 
