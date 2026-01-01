@@ -48,7 +48,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,django,flask,fastapi,spring,nodejs,mysql,postgres,mongodb,opencv,linux,git,html,css,js,flutter,anaconda,matlab,latex,seaborn,numpy,pandas,Matplotlib,CMake" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,django,flask,fastapi,spring,nodejs,mysql,postgres,mongodb,opencv,linux,git,html,css,js,flutter,anaconda,matlab,latex,numpy,pandas,matplotlib,cmake" />
+
 
 </div>
 
