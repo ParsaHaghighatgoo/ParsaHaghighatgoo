@@ -1,13 +1,18 @@
-## 👋 Hiii :D
+## 👋 Hi, I'm Parsa Haghighatgoo
+
+**Software Engineer | Backend & AI Developer | Python & Java Enthusiast**
+I build scalable backends, data-driven systems, and intelligent applications.
+
+---
 
 ### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ParsaHaghighatgoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="165" />
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHaghighatgoo&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ParsaHaghighatgoo&theme=transparent&hide_border=true"/>
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ParsaHaghighatgoo&theme=transparent&hide_border=true" />
 
 </div>
 
