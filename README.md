@@ -58,38 +58,6 @@
 
 <img alt="snake animation" src="https://raw.githubusercontent.com/ParsaHaghighatgoo/ParsaHaghighatgoo/output/github-contribution-grid-snake.svg" />
 
-> To make this work, add this workflow file to your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ParsaHaghighatgoo
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 ---
 
 
