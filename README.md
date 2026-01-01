@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Parsa+Haghighatgoo+%F0%9F%91%8B;Backend+%26+AI+Developer;Learning+Machine+Learning+%7C+Deep+Learning+%7C+AI+in+Healthcare" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hiii%2C+I%27m+Parsa+Haghighatgoo+%F0%9F%91%8B;Backend+%26+AI+Developer;Learning+Machine+Learning+%7C+Deep+Learning+%7C+AI+in+Healthcare" alt="Typing SVG" />
 
 </div>
+
 ## 👋 Hiii :D
 
-:D About Me
+## 👋 About Me
 
-🧠 I’m currently learning Machine Learning, Deep Learning, and AI in Healthcare
-
-🤝 I’m looking to collaborate on Machine Learning projects
+* 🧠 I’m currently learning **Machine Learning, Deep Learning, and AI in Healthcare**
+* 🤝 I’m looking to collaborate on **Machine Learning projects**
 
 ---
 
