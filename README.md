@@ -9,9 +9,7 @@
 ## 👋 About Me
 
 * 🧠 I’m currently learning **Machine Learning, Deep Learning, and AI in Healthcare**
-* 🛒 I’m exploring AI and Data Science applications in E-commerce, including Customer & Basket Analysis
-- 💹 I’m interested in Machine Learning applications in Finance, Quantitative Analysis, and HFT
-- 📊 I’m interested in Data-Driven Business, Management, and Decision Making
+* 📊 Exploring AI & Data Science across E-commerce, Finance, and Business Analytics
 * 🤝 I’m looking to collaborate on **Machine Learning projects**
 
 ---
